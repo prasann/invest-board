@@ -1,5 +1,5 @@
 module.exports = {
-    darkMode: 'class', // This can be 'media' if preferred.
+    darkMode: 'media',
     purge: [
       './src/**/*.svelte',
       './src/**/*.html',
